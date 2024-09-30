@@ -14,3 +14,7 @@ As I continue my journey in Full Stack development, I am always on the lookout f
 - Playing volleyball
 - Playing the guitar
 - hikking
+
+# This was my first branch but i forgot to save it so the phrase I had written here is on technology branch :(
+
+## (It does not matter because I learn from mistakes)
